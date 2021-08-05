@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (ITMO.C++.Control_Lab10.1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  ITMO.C++.Control_Lab10.1.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(635,76): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab10\ITMO.C++.Control_Lab10_aggregation\ITMO.C++.Control_Lab10.1.cpp(21): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<int &,int &,int &> &std::tuple<int &,int &,int &>::operator =<double,double,double,0>(std::tuple<double,double,double> &&) noexcept"
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab10\ITMO.C++.Control_Lab10_aggregation\ITMO.C++.Control_Lab10.1.cpp(21): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<int &,int &,int &> &std::tuple<int &,int &,int &>::operator =<double,double,double,0>(std::tuple<double,double,double> &&) noexcept"
+  triangle.cpp
+  Создание кода...
+  ITMO.C++.Control_Lab10.1.vcxproj -> E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab10\Debug\ITMO.C++.Control_Lab10_aggregation.exe

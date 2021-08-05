@@ -1,0 +1,12 @@
+﻿  dot.cpp
+  ITMO.C++.Control_Lab10.2.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\tuple(635,76): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab10\ITMO.C++.Control_Lab10_composition\ITMO.C++.Control_Lab10.2.cpp(22): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<int &,int &,int &> &std::tuple<int &,int &,int &>::operator =<double,double,double,0>(std::tuple<double,double,double> &&) noexcept"
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab10\ITMO.C++.Control_Lab10_composition\ITMO.C++.Control_Lab10.2.cpp(22): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<int &,int &,int &> &std::tuple<int &,int &,int &>::operator =<double,double,double,0>(std::tuple<double,double,double> &&) noexcept"
+  triangle.cpp
+  Создание кода...
+  ITMO.C++.Control_Lab10.2.vcxproj -> E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab10\Debug\ITMO.C++.Control_Lab10_composition.exe

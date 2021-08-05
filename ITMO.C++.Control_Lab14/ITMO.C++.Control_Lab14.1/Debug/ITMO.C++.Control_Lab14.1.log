@@ -1,0 +1,19 @@
+﻿  ITMO.C++.Control_Lab14.1.cpp
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab14\ITMO.C++.Control_Lab14.1\ITMO.C++.Control_Lab14.1.cpp(29,22): warning C4838: Преобразование из "__int64" в "long" требует сужающего преобразования.
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab14\ITMO.C++.Control_Lab14.1\ITMO.C++.Control_Lab14.1.cpp(29,22): warning C4309: инициализация: усечение константного значения
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab14\ITMO.C++.Control_Lab14.1\ITMO.C++.Control_Lab14.1.cpp(29,34): warning C4838: Преобразование из "__int64" в "long" требует сужающего преобразования.
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab14\ITMO.C++.Control_Lab14.1\ITMO.C++.Control_Lab14.1.cpp(29,135): warning C4305: инициализация: усечение из "__int64" в "long"
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab14\ITMO.C++.Control_Lab14.1\ITMO.C++.Control_Lab14.1.cpp(29,34): warning C4309: инициализация: усечение константного значения
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab14\ITMO.C++.Control_Lab14.1\ITMO.C++.Control_Lab14.1.cpp(29,48): warning C4838: Преобразование из "__int64" в "long" требует сужающего преобразования.
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab14\ITMO.C++.Control_Lab14.1\ITMO.C++.Control_Lab14.1.cpp(29,48): warning C4309: инициализация: усечение константного значения
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab14\ITMO.C++.Control_Lab14.1\ITMO.C++.Control_Lab14.1.cpp(29,61): warning C4838: Преобразование из "__int64" в "long" требует сужающего преобразования.
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab14\ITMO.C++.Control_Lab14.1\ITMO.C++.Control_Lab14.1.cpp(29,61): warning C4309: инициализация: усечение константного значения
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab14\ITMO.C++.Control_Lab14.1\ITMO.C++.Control_Lab14.1.cpp(29,75): warning C4838: Преобразование из "__int64" в "long" требует сужающего преобразования.
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab14\ITMO.C++.Control_Lab14.1\ITMO.C++.Control_Lab14.1.cpp(29,75): warning C4309: инициализация: усечение константного значения
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab14\ITMO.C++.Control_Lab14.1\ITMO.C++.Control_Lab14.1.cpp(29,89): warning C4838: Преобразование из "__int64" в "long" требует сужающего преобразования.
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab14\ITMO.C++.Control_Lab14.1\ITMO.C++.Control_Lab14.1.cpp(29,89): warning C4309: инициализация: усечение константного значения
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab14\ITMO.C++.Control_Lab14.1\ITMO.C++.Control_Lab14.1.cpp(29,105): warning C4838: Преобразование из "__int64" в "long" требует сужающего преобразования.
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab14\ITMO.C++.Control_Lab14.1\ITMO.C++.Control_Lab14.1.cpp(29,105): warning C4309: инициализация: усечение константного значения
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab14\ITMO.C++.Control_Lab14.1\ITMO.C++.Control_Lab14.1.cpp(29,121): warning C4838: Преобразование из "__int64" в "long" требует сужающего преобразования.
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab14\ITMO.C++.Control_Lab14.1\ITMO.C++.Control_Lab14.1.cpp(29,121): warning C4309: инициализация: усечение константного значения
+  ITMO.C++.Control_Lab14.1.vcxproj -> E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab14\Debug\ITMO.C++.Control_Lab14.1.exe

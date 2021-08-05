@@ -1,0 +1,3 @@
+﻿  ITMO.C++.Control_Lab11.1.cpp
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab11\ITMO.C++.Control_Lab11.1\ITMO.C++.Control_Lab11.1.cpp(104,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ITMO.C++.Control_Lab11.1.vcxproj -> E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab11\Debug\ITMO.C++.Control_Lab11.1.exe

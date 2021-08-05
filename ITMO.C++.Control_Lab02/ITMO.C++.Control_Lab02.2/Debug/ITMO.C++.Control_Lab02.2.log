@@ -1,0 +1,5 @@
+﻿  ITMO.C++.Control_Lab02.2.cpp
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab02\ITMO.C++.Control_Lab02.2\ITMO.C++.Control_Lab02.2.cpp(17,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab02\ITMO.C++.Control_Lab02.2\ITMO.C++.Control_Lab02.2.cpp(19,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab02\ITMO.C++.Control_Lab02.2\ITMO.C++.Control_Lab02.2.cpp(21,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ITMO.C++.Control_Lab02.2.vcxproj -> E:\JENK\ОБУЧЕНИЕ\Курс_Инженер-программист\C++\Control_Labs\ITMO.C++.Control_Lab02\Debug\ITMO.C++.Control_Lab02.2.exe
